@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a14e2d5-51bb-42c5-90e2-4d8c13eabc6e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1sL5Ys0omNWxtORuqna1USwizoh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BasicGraphQLTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredGraphQLTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicGraphQLTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BasicGraphQLTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a14e2d5-51bb-42c5-90e2-4d8c13eabc6e" name="Default Changelist" comment="" />
+      <created>1620639079322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620639079322</updated>
+      <workItem from="1620639083479" duration="252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="84" key="#Project_Structure" timestamp="1620639204951">
+      <screen x="0" y="25" width="1440" height="781" />
+    </state>
+    <state x="402" y="84" key="#Project_Structure/0.25.1440.781@0.25.1440.781" timestamp="1620639204951" />
+    <state x="615" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1620639256488">
+      <screen x="0" y="25" width="1440" height="781" />
+    </state>
+    <state x="615" y="113" key="#com.intellij.ide.util.MemberChooser/0.25.1440.781@0.25.1440.781" timestamp="1620639256488" />
+  </component>
+</project>
